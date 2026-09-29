@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi, I'm Andrés 👋
+
+Mechatronics Engineer & Master Candidate in Computer Science & Business Technology at IE University.
+
+I specialize in IoT architecture, data engineering, and smart system integrations—building scalable, efficient solutions that connect hardware, data, and cloud infrastructure.
+
+🛠️ Tech & Tools: Python, SQL, Industrial IoT, GCP, Edge Computing & Home Automation
+
+💡 Focus: Building practical, cost-effective systems that solve real-world industrial problems.
+
+📫 Feel free to reach out and connect!
 
 <!--
 **AndresMirazo/AndresMirazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
